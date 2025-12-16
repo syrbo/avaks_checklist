@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<string>Чек-лист</string>
 	<key>CFBundleDisplayName</key>
 	<string>Avaks Checklists</string>
 	<key>CFBundleExecutable</key>
