@@ -1,16 +1,6 @@
 # avaks_checklists
 
-An app to create a checklists from templates and then save these
+Приложения для создания чек-листов с помощью шаблонов и сохранение результатов 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Техническая составляющая
+В приложение импортируется .md файл-шаблон (example.md), при открытии шаблона начинается заполнение чек-листа, как работа с ним будет завершена, нажимайте на иконку «сохранить» в панели справа, открывается file-picker куда сохранить итоговый zip-архив. Zip-архив содержит txt файл записи выполненых и не выполненых задач, а так же файлы, прикреплённые в определённые места файлы. 
